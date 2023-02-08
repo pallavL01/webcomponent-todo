@@ -1,0 +1,7 @@
+{
+  "index.html": {
+    "file": "todo-list.mjs",
+    "src": "index.html",
+    "isEntry": true
+  }
+}
