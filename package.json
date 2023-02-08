@@ -4,9 +4,11 @@
   "description": "",
   "main": "index.html",
   "scripts": {
-    "start": "parcel index.html --open",
-    "build": "parcel build index.html"
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
   },
+  "license": "MIT",
   "dependencies": {
     "@lit-labs/motion": "1.0.3",
     "@material/mwc-button": "0.27.0",
