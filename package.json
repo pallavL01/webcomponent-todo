@@ -1,0 +1,27 @@
+{
+  "name": "todo-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "@lit-labs/motion": "1.0.3",
+    "@material/mwc-button": "0.27.0",
+    "@material/mwc-checkbox": "0.27.0",
+    "@material/mwc-formfield": "0.27.0",
+    "@material/mwc-textfield": "0.27.0",
+    "lit": "2.6.1",
+    "material-icons": "1.13.1",
+    "vite": "3.1.8"
+  },
+  "devDependencies": {
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
