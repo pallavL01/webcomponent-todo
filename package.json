@@ -17,7 +17,7 @@
     "@material/mwc-textfield": "0.27.0",
     "lit": "2.6.1",
     "material-icons": "1.13.1",
-    "vite": "3.1.8"
+    "vite": "3.2.7"
   },
   "devDependencies": {
     "path": "^0.12.7",
